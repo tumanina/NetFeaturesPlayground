@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TestService2/TestService2.csproj" />
+  <Project Path="TestService3/TestService3.csproj" />
+  <Project Path="TestService1/TestService1.csproj" />
+  <Project Path="YERPService/YERPService.csproj" />
+</Solution>
